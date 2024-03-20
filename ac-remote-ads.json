@@ -1,0 +1,19 @@
+{
+  "applicationName": "Universal Ac Remote",
+  "country": "All",
+  "mines": "83.2TeT",
+  "country": "ge",
+  "adStatus": "true",
+  "facebook": "false",
+  "latitude": "41.40338",
+  "banner_ad": "ca-app-pub-8133357101666182/9671343365",
+  "native_ad": "ca-app-pub-8133357101666182/2244279489",
+    "appopen_ad": "ca-app-pub-8133357101666182/7783546627",
+  "rewarded_ad": "ca-app-pub-8133357101666182/4870442826",
+    "interstitial_ad": "ca-app-pub-8133357101666182/7069795409",
+  "freeorpaid": "free",
+  "apporgame":"app",
+  "Alpha" : "True",
+  "Beta" : "False",
+  "OpenTesting" : "True"
+}
